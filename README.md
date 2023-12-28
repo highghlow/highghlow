@@ -1,5 +1,5 @@
 - **I am highghlow**
-- My contacts are on [my website](https://highghlow.github.io)
+- I have [a blog](https://highghlow.github.io)
 
 ### Top projects
 - [IAmRootTK](https://github.com/highghlow/IAmRootTK) - tool for recovering admin permissions on most Windows/Linux devices
